@@ -8,7 +8,7 @@
 
 -   📫 How to reach me **agungcahya122@gmail.com**
 
--   📄 Know about my experiences **[resume](https://drive.google.com/drive/folders/1RaDLvexhep1v2SLUJX1p5wYlxjkavo98)**
+-   📄 Know about my experiences **[resume](https://drive.google.com/file/d/1c6FqSieyezAjNnx2zp_6DO2ewANNAjHy/view?usp=share_link)**
 
 -   ⚡ Fun fact **I've graduate as Electrical Engineer; Love Family, and anime**
 
