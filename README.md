@@ -101,7 +101,7 @@ Engineer. At Alterra, I learned about basic javascript until difficult, HTML and
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agungcahya122&theme=algolia&border_radius=20" alt="agungcahya122" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agungcahya122&theme=algolia&border_radius=20" alt="agungcahya122" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agungcahya122&theme=algolia&border_radius=20" alt="agungcahya122" /></a> </p>
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
 
