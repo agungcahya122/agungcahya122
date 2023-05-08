@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm M Agung Cahya Diyanto</h1>
 <h2 align="center" style="margin-top : -20px; color:#44AEFB" >Frontend Engineer</h2>
-<img align="right" alt="Coding" width="350" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
+<img align="center" alt="Coding" width="400" style="margin-5px" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfin7007&label=Profile%20views&color=0e75b6&style=flat" alt="alfin7007" /> </p>
 
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 About me </h1>
 <p align="justify" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a fresh graduate of the Immersive Program Alterra Academy Frontend
+I am a fresh graduate of the Immersive Program Alterra Academy Frontend
 Engineer. At Alterra, I learned about basic javascript until difficult, HTML and CSS3 basic. Besides that, I also learned make web designs on basic web design using Figma. I learned to make web using React as the library and other supporting frameworks using Cookies, Tailwind CSS, and other. In the coding process, I also apply clean code to make it easier to develop and use reusable components for each component used, and the last one is deployment using Netlify or Vercel.
 <br>
 <br>
