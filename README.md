@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm M Agung Cahya Diyanto</h1>
 <h1 align="center" style="margin-top : -20px" >Frontend Engineer</h1>
-<img align="right" alt="Coding" width="450" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfin7007&label=Profile%20views&color=0e75b6&style=flat" alt="alfin7007" /> </p>
 
